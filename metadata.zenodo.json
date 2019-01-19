@@ -1,0 +1,58 @@
+{
+    "description": "Analisis sobre la expansion y el desarrollo del Dengue y el mosquito tigre en America, centrado en los casos de Brasil y EEUU", 
+    "license": "other-open", 
+    "title": "Control y seguimiento de la transmisión del dengue a través del mosquito tigre",
+	"key": [
+		{
+			"subjet":"mosquito tigre"
+		}
+		{
+			"subjet":"dengue"
+		}
+		{
+			"subjet":"aedes albopictus"
+		}
+	]
+    "version": "v1.0.0", 
+    "upload_type": "software/data", 
+    "publication_date": "2019-01-09", 
+    "creators": [
+        {
+            "name": "Guillermo"
+			"first":"Diaz"
+        }
+		{
+            "name": "Esther"
+			"first":"Garcia"
+        }
+		{
+            "name": "Jose"
+			"first":"Abad"
+        }
+		{
+            "name": "Maria"
+			"first":"Lavin"
+        }
+    ], 
+	"related_links": {
+		"dataset": "https://www.gbif.org/dataset/33614778-513a-4ec0-814d-125021cca5fe",
+		"dataset": "https://datadryad.org/resource/doi:10.5061/dryad.47v3c",
+		"dataset": "https://www.nature.com/articles/sdata201535",
+		"self": "http://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html?start=1"
+	},
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/guilleeh90/DengueReview/tree/v1.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.2542909", 
+            "relation": "isVersionOf"
+        }
+    ],
+	"language": "spanish"
+	"publisher": "Universidad de Cantabria"
+}
