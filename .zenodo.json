@@ -1,58 +1,143 @@
 {
-    "description": "Analisis sobre la expansion y el desarrollo del Dengue y el mosquito tigre en America, centrado en los casos de Brasil y EEUU", 
-    "license": "other-open", 
-    "title": "Control y seguimiento de la transmisión del dengue a través del mosquito tigre",
-	"key": [
-		{
-			"subjet":"mosquito tigre"
-		}
-		{
-			"subjet":"dengue"
-		}
-		{
-			"subjet":"aedes albopictus"
-		}
-	]
-    "version": "v1.0.0", 
-    "upload_type": "software/data", 
-    "publication_date": "2019-01-09", 
-    "creators": [
-        {
-            "name": "Guillermo"
-			"first":"Diaz"
-        }
-		{
-            "name": "Esther"
-			"first":"Garcia"
-        }
-		{
-            "name": "Jose"
-			"first":"Abad"
-        }
-		{
-            "name": "Maria"
-			"first":"Lavin"
-        }
-    ], 
-	"related_links": {
-		"dataset": "https://www.gbif.org/dataset/33614778-513a-4ec0-814d-125021cca5fe",
-		"dataset": "https://datadryad.org/resource/doi:10.5061/dryad.47v3c",
-		"dataset": "https://www.nature.com/articles/sdata201535",
-		"self": "http://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html?start=1"
-	},
+  "conceptdoi": "10.5281/zenodo.2542909", 
+  "conceptrecid": "2542909", 
+  "created": "2019-01-19T10:48:03.074920+00:00", 
+  "doi": "10.5281/zenodo.2544129", 
+  "files": [
+    {
+      "bucket": "81a2005c-be91-4771-89d2-dbcd977c0456", 
+      "checksum": "md5:7aa5679015c7e266a69a2bbad7a05908", 
+      "key": "DengueReview-v1.0.0.zip", 
+      "links": {
+        "self": "https://zenodo.org/api/files/81a2005c-be91-4771-89d2-dbcd977c0456/DengueReview-v1.0.0.zip"
+      }, 
+      "size": 661400, 
+      "type": "zip"
+    }
+  ], 
+  "id": 2544129, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.2544129.svg", 
+    "bucket": "https://zenodo.org/api/files/81a2005c-be91-4771-89d2-dbcd977c0456", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.2542909.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.2542909", 
+    "doi": "https://doi.org/10.5281/zenodo.2544129", 
+    "html": "https://zenodo.org/record/2544129", 
+    "latest": "https://zenodo.org/api/records/2544129", 
+    "latest_html": "https://zenodo.org/record/2544129"
+  }, 
+  "metadata": {
     "access_right": "open", 
+    "access_right_category": "success", 
+    "contributors": [
+      {
+        "affiliation": "Universidad de Cantabria", 
+        "name": "Fernando Aguilar", 
+        "type": "ContactPerson"
+      }
+    ], 
+    "creators": [
+      {
+        "affiliation": "Universidad de Cantabria", 
+        "name": "Guillermo D\u00edaz"
+      }, 
+      {
+        "affiliation": "Universidad de Cantabria", 
+        "name": "Jose Abad"
+      }, 
+      {
+        "affiliation": "Universidad de Cantabria", 
+        "name": "Esther Garcia"
+      }, 
+      {
+        "affiliation": "Universidad de Cantabria", 
+        "name": "Maria Lavin"
+      }
+    ], 
+    "description": "<p>Analisis sobre la expansion y el desarrollo del Dengue y el mosquito tigre en Am&eacute;rica, centrado en los casos de Brasil y EEUU</p>", 
+    "doi": "10.5281/zenodo.2544129", 
+    "keywords": [
+      "mosquito tigre", 
+      "aedes albopictus", 
+      "dengue"
+    ], 
+    "language": "spa", 
+    "license": {
+      "id": "other-open"
+    }, 
+    "notes": "Este dataset ha sido recopilado desde las siguientes fuentes:\nhttps://www.gbif.org/dataset/33614778-513a-4ec0-814d-125021cca5fe\nhttps://datadryad.org/resource/doi:10.5061/dryad.47v3c\nhttps://www.nature.com/articles/sdata201535\nhttps://data.world/zika-virus-data/mosquito-data\nhttp://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html", 
+    "publication_date": "2019-01-09", 
     "related_identifiers": [
+      {
+        "identifier": "https://www.gbif.org/dataset/33614778-513a-4ec0-814d-125021cca5fe", 
+        "relation": "isSupplementTo", 
+        "scheme": "url"
+      }, 
+      {
+        "identifier": "https://datadryad.org/resource/doi:10.5061/dryad.47v3c", 
+        "relation": "hasPart", 
+        "scheme": "url"
+      }, 
+      {
+        "identifier": "https://www.nature.com/articles/sdata201535", 
+        "relation": "hasPart", 
+        "scheme": "url"
+      }, 
+      {
+        "identifier": "https://data.world/zika-virus-data/mosquito-data", 
+        "relation": "hasPart", 
+        "scheme": "url"
+      }, 
+      {
+        "identifier": "http://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html", 
+        "relation": "hasPart", 
+        "scheme": "url"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.2542909", 
+        "relation": "isVersionOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
         {
-            "scheme": "url", 
-            "identifier": "https://github.com/guilleeh90/DengueReview/tree/v1.0.0", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.2542909", 
-            "relation": "isVersionOf"
+          "count": 2, 
+          "index": 1, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "2544129"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "2542909"
+          }
         }
-    ],
-	"language": "spanish"
-	"publisher": "Universidad de Cantabria"
+      ]
+    }, 
+    "resource_type": {
+      "title": "Dataset", 
+      "type": "dataset"
+    }, 
+    "title": "Control y seguimiento de la transmisi\u00f3n del dengue a  trav\u00e9s del mosquito tigre", 
+    "version": "v1.0.0"
+  }, 
+  "owners": [
+    59113
+  ], 
+  "revision": 1, 
+  "stats": {
+    "downloads": 0.0, 
+    "unique_downloads": 0.0, 
+    "unique_views": 0.0, 
+    "version_downloads": 3.0, 
+    "version_unique_downloads": 2.0, 
+    "version_unique_views": 3.0, 
+    "version_views": 4.0, 
+    "version_volume": 1981305.0, 
+    "views": 0.0, 
+    "volume": 0.0
+  }, 
+  "updated": "2019-01-19T10:48:05.096268+00:00"
 }
