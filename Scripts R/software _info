@@ -1,0 +1,5 @@
+SOFTWARE NEEDED
+- R version 3.5.1 (2018-07-02) -- "Feather Spray"
+	- Libraries used:
+		ggplot2
+		zoo
